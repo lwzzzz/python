@@ -10,7 +10,7 @@ import json
 urlbase = "http://fanyi.baidu.com/sug"
 global data
 data = {'kw': 'happy'}
-headers = {11111
+headers = {
     'Content-Length': len(data)
 }
 
